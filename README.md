@@ -1,4 +1,4 @@
-#Natural gas prices [![Python version](https://img.shields.io/badge/python-3.%2B-red.svg)](https://www.python.org/downloads/release/python-381/)
+# Natural gas prices [![Python version](https://img.shields.io/badge/python-3.%2B-red.svg)](https://www.python.org/downloads/release/python-381/)
 Data Wrangling on Henry Hub Natural Gas Spot Prices. (Units: Dollars per Million Btu). The data is downloaded from United States Energy Information Administration website https://www.eia.gov
 
 ## Data
