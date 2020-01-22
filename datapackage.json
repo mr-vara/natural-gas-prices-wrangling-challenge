@@ -32,12 +32,12 @@
           {
             "name": "Date",
             "type": "string",
-            "description": "Date in YYYY-MM-DD Format",
+            "description": "Date in YYYY-MM-DD Format"
           },
           {
             "name": "Price",
             "type": "number",
-            "description": "Dollars per Million Btu",
+            "description": "Dollars per Million Btu"
           }
         ]
       }
@@ -50,12 +50,12 @@
           {
             "name": "Date",
             "type": "string",
-            "description": "Date in YYYY-MM-DD Format",
+            "description": "Date in YYYY-MM-DD Format"
           },
           {
             "name": "Price",
             "type": "number",
-            "description": "Dollars per Million Btu",
+            "description": "Dollars per Million Btu"
           }
         ]
       }
