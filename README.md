@@ -31,7 +31,6 @@ $ python3 scripts/tests.py
 
     .
     ├── data                    # Contains CSV files
-    ├── public                  # Contains HTML, Javascript files
     ├── scripts                 # Contains Python script files
     ├── datapackage.json
     └── README.md
