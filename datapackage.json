@@ -73,6 +73,17 @@
         "group": "Date",
         "series": ["Price"]
       }
+    },
+    {
+      "name": "henry-hub-natural-gas-monthly-prices-view-line",
+      "title": "henry-hub-natural-gas-monthly-prices-view-line",
+      "resources": ["henry-hub-natural-gas-monthly-prices"],
+      "specType": "simple",
+      "spec": {
+        "type": "line",
+        "group": "Date",
+        "series": ["Price"]
+      }
     }
   ]
 }
