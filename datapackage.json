@@ -31,7 +31,7 @@
         "fields": [
           {
             "name": "Date",
-            "type": "string",
+            "type": "date",
             "description": "Date in YYYY-MM-DD Format"
           },
           {
@@ -57,7 +57,21 @@
             "type": "number",
             "description": "Dollars per Million Btu"
           }
-        ]
+        ],
+        "primaryKey": "Date"
+      }
+    }
+  ],
+  "views": [
+    {
+      "name": "henry-hub-natural-gas-daily-prices-view-line",
+      "title": "henry-hub-natural-gas-daily-prices-view-line",
+      "resources": ["henry-hub-natural-gas-daily-prices"],
+      "specType": "simple",
+      "spec": {
+        "type": "line",
+        "group": "Date",
+        "series": ["Price"]
       }
     }
   ]
