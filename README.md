@@ -1,11 +1,11 @@
-# Natural gas prices [![Python version](https://img.shields.io/badge/python-3.%2B-red.svg)](https://www.python.org/downloads/release/python-381/) [![OKFN](https://img.shields.io/badge/data-OKFN-green.svg)](https://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmr-vara%2Fnatural-gas-prices-wrangling-challenge%2Fmaster%2Fdatapackage.json) [![Chart](https://img.shields.io/badge/canvasjs-chart-blue.svg)](https://mr-vara.github.io/henry-hub/index.html)
+# Natural gas prices [![Python version](https://img.shields.io/badge/python-3.%2B-red.svg)](https://www.python.org/downloads/release/python-381/) [![OKFN](https://img.shields.io/badge/data-OKFN-green.svg)](https://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmr-vara%2Fnatural-gas-prices-wrangling-challenge%2Fmaster%2Fdatapackage.json) [![Chart](https://img.shields.io/badge/visualization-vega-blue.svg)](https://mr-vara.github.io/henry-hub/index.html)
 Data Wrangling on Henry Hub Natural Gas Spot Prices. (Units: Dollars per Million Btu). The data is downloaded from United States Energy Information Administration website https://www.eia.gov
 
 ## Data
 The Henry hub natural gas spot prices are available in both daily and monthly granularities. Please check `data` directory for the `csv` files.
 View the data in OKFN Data Package Viewer [here](https://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmr-vara%2Fnatural-gas-prices-wrangling-challenge%2Fmaster%2Fdatapackage.json)
 
-You can also check chart [here](https://mr-vara.github.io/henry-hub/index.html)
+You can also check line graph visualization [here](https://mr-vara.github.io/henry-hub/index.html)
 
 ## Running Scripts
 
